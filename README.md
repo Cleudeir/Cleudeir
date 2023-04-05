@@ -22,6 +22,8 @@
         ✔️ Conectar com um arquivo de CSS<br/>
         ✔️ Criar uma tabela<br/>
         ✔️ Adicionar IDs e classes<br/>
+        <br/>
+        <br/>
       </div>
   </div>
 
@@ -42,6 +44,8 @@
       ✔️ Fazer um CRUD<br/>
       ✔️ Obter dados de uma API<br/>
       ✔️ Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc<br/>
+      <br/>
+      <br/>
     </div>
   </div>
 
