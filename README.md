@@ -1,4 +1,4 @@
-<h2 align="center">Developer Full Stack Junior </h2>
+<h1 align="center">Developer Full Stack Junior </h1>
 
 <div align="center">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Cleudeir&show_icons=true&count_private=true" />
