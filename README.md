@@ -7,6 +7,15 @@
     <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleudeir&show_icons=true&count_private=true" />
 </div>
 
+<br>
+<br>
+
+<div align="center"> 
+ <a href=https://discordapp.com/users/673225669450137632" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:cleudeirSilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleudeir-vieira-da-silva-128960159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
   <br>
   <br>
   
@@ -142,9 +151,4 @@
   <br>
 
  
-<div align="center"> 
- <a href=https://discordapp.com/users/673225669450137632" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cleudeirSilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleudeir-vieira-da-silva-128960159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
