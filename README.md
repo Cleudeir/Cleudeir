@@ -43,10 +43,3 @@
     </div>
  </div>
  
-  <br>
-  <br>
-
-  <div align="center">
-    <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleudeir&show_icons=true&count_private=true" />
-</div>
- 
