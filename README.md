@@ -1,7 +1,7 @@
 <h1 align="center">Developer Full Stack Junior </h1>
 
 <div align="center">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Cleudeir&show_icons=true&count_private=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Cleudeir&show_icons=true&count_private=true" />
     <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleudeir&show_icons=true&count_private=true" />
 </div>
 
