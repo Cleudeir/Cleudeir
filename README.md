@@ -18,28 +18,27 @@
   
  <div align="center">
     <div id="HTML" style="display: block">
-        <img  align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img  align="left" height="90em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </div>
     <div id="CSS">
-      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="left" height="90em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </div>
     <div id="JavaScript" style="display: block">
-      <img align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="left" height="90em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </div>
     <div id="Typescript">
-      <img align="left" height="100em" alt="Cleudeir-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="left" height="90em" alt="Cleudeir-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </div>
       <div id="nodejs">
-      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="left" height="90em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </div>
     <div id="React">
-      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="left" height="90em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     </div>
     <div id="Nextjs">
-      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img align="left" height="90em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     </div>
     <div id="java">
-      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="left" height="90em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     </div>
  </div>
- 
