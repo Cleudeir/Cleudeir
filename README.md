@@ -37,4 +37,9 @@
    <div id="Nextjs">
     <img align="left" height="290em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </div>
-
+  <div id="java">
+    <img align="left" height="290em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
+   <div id="nodejs">
+    <img align="left" height="290em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </div>
