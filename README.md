@@ -1,8 +1,7 @@
 <h1 align="center">Developer Full Stack Junior </h1>
 
 <div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Cleudeir&show_icons=true&count_private=true" />
-    <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleudeir&show_icons=true&count_private=true" />
+    <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=Cleudeir&show_icons=true&count_private=true" />
 </div>
 
 <br>
@@ -17,28 +16,37 @@
   <br>
   <br>
   
-  <div id="HTML" style="display: block">
-      <img  align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </div>
-   <div id="CSS">
-    <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  <div id="JavaScript" style="display: block">
-    <img align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-  <div id="Typescript">
-    <img align="left" height="100em" alt="Cleudeir-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </div>
-    <div id="nodejs">
-    <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  </div>
-  <div id="React">
-    <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
-   <div id="Nextjs">
-    <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  </div>
-  <div id="java">
-    <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div>
+ <div align="center">
+    <div id="HTML" style="display: block">
+        <img  align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </div>
+    <div id="CSS">
+      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+    <div id="JavaScript" style="display: block">
+      <img align="left" height="100em" alt="Cleudeir-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </div>
+    <div id="Typescript">
+      <img align="left" height="100em" alt="Cleudeir-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </div>
+      <div id="nodejs">
+      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    </div>
+    <div id="React">
+      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </div>
+    <div id="Nextjs">
+      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    </div>
+    <div id="java">
+      <img align="left" height="100em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    </div>
+ </div>
+ 
+  <br>
+  <br>
+
+  <div align="center">
+    <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleudeir&show_icons=true&count_private=true" />
+</div>
  
