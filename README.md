@@ -31,6 +31,9 @@
   <div id="Typescript">
     <img align="left" height="110em" alt="Cleudeir-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
+    <div id="nodejs">
+    <img align="left" height="110em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </div>
   <div id="React">
     <img align="left" height="110em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
@@ -40,6 +43,4 @@
   <div id="java">
     <img align="left" height="110em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
-   <div id="nodejs">
-    <img align="left" height="110em" alt="Cleudeir-React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  </div>
+ 
