@@ -1,5 +1,3 @@
-<h1 align="center"> Hi there , My Name is CLeudeir 👋</h1>
-
 <h2 align="center">Developer Full Stack Junior </h2>
 
 <div align="center">
