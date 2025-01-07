@@ -1,8 +1,12 @@
-## Summary
+👋 Hello! Welcome to my profile!
 
-This project aims to [State the overall goal of the project, e.g.,  develop a web application for managing tasks, create a mobile game, build a data analysis tool].  It focuses on [mention key features or functionalities, e.g., user authentication, real-time data updates, efficient data processing]. The project successfully [State the outcome or achievements, e.g., implemented all core features, met performance targets, achieved high user satisfaction].  Future development may include [Mention potential future improvements or expansions, e.g., adding new features, improving scalability, enhancing user interface].
+I am a software developer passionate about creating smart and scalable solutions. My experience spans web, mobile, and back-end development, with a focus on quality, performance, and innovation.
 
+💻 Technologies and Skills
 
-## Tech Stack
+Frontend: React, React Native, JavaScript, TypeScript
+Backend: Node.js, REST APIs
+DevOps & Infrastructure: Docker, MySQL, MariaDB
+Other Languages: Python, Java, C#
 
-[List the technologies used, e.g.,  Python, Django, React, PostgreSQL, AWS]
+🚀 Throughout my journey, I have worked on diverse projects, developing everything from modern, responsive interfaces to complex corporate systems and intelligent automations.
