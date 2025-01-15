@@ -1,6 +1,6 @@
 👋 Hello! Welcome to my profile!
 
-I am a software developer passionate about creating smart and scalable solutions. My experience spans web, mobile, and back-end development, with a focus on quality, performance, and innovation.
+I am a software developer passionate about creating smart solutions. My experience spans web, mobile, and back-end development, with a focus on quality.
 
 💻 Technologies and Skills
 
